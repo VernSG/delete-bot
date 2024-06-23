@@ -12,12 +12,12 @@ Skrip ini menggunakan Instabot untuk menghapus akun-akun Instagram yang terident
 1. Clone repository:
 ```bash
    git clone https://github.com/VernSG/delete-bot.git
-   cd repository
+   cd repository```
 
 
 2. Install dependensi:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 
 3. Konfigurasi Script
@@ -25,4 +25,4 @@ pip install -r requirements.txt
 
 4. Run
 ```bash
- Python deletebot.py
+ Python deletebot.py```
