@@ -7,22 +7,15 @@ Skrip ini menggunakan Instabot untuk menghapus akun-akun Instagram yang terident
 - Python 3
 - Instalasi Instabot library
 
-## Instalasi
+# Clone repository
+git clone https://github.com/VernSG/delete-bot.git
+cd delete-bot
 
-1. Clone repository:
- ```bash
-   git clone https://github.com/VernSG/delete-bot.git
-   cd repository
-
-
-2. Install dependensi:
-```bash
+# Install dependencies
 pip install -r requirements.txt
 
+# Configuration
+# Buka file deletebot.py dan ganti 'your_username' dan 'your_password' dengan username dan password Instagram Anda.
 
-3. Konfigurasi Script
-- Buka file deletebot.py dan ganti 'your_username' dan 'your_password' dengan username dan password Instagram Anda.
-
-4. Run
-```bash
- Python deletebot.py```
+# Run script
+python deletebot.py
