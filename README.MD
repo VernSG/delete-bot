@@ -10,7 +10,7 @@ Skrip ini menggunakan Instabot untuk menghapus akun-akun Instagram yang terident
 ## Instalasi
 
 1. Clone repository:
-   ```bash
+```bash
    git clone https://github.com/VernSG/delete-bot.git
    cd repository
 
