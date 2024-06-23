@@ -13,7 +13,7 @@ git clone https://github.com/VernSG/delete-bot.git
 cd delete-bot
 
 # Install dependencies
-```bash
+
 pip install -r requirements.txt
 
 # Configuration
