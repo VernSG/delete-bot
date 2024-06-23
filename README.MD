@@ -21,3 +21,7 @@ pip install -r requirements.txt
 
 3. Konfigurasi Script
 - Buka file deletebot.py dan ganti 'your_username' dan 'your_password' dengan username dan password Instagram Anda.
+
+4. Run
+```bash
+ Python deletebot.py
